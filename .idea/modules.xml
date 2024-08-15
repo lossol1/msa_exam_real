@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.auth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.auth.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.sparta.msa_exam.client.product.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/msa_exam.iml" filepath="$PROJECT_DIR$/.idea/msa_exam.iml" />
+    </modules>
+  </component>
+</project>
